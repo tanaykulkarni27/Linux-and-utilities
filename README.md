@@ -1,4 +1,4 @@
-<a href="https://github.com/DrSwad/FastOlympicCodingHook">Copy input from website</a>
+<a href="https://github.com/tanaykulkarni27/FastOlympicCodingHook">Copy input from website</a>
 <a href="https://github.com/tanaykulkarni27/Linux-and-utilities/blob/master/Sublime%20and%20c%2B%2B.md"> Install sublime and c++ on linux (ubuntu) </a><br>
 Theme -> Mariana<br>
 Background Color = hsl(220, 55%, 12%)<br>
