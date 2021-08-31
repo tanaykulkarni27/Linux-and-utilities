@@ -1,6 +1,0 @@
-{
-"cmd": ["gnome-terminal"],
-"shell":true,
-"working_dir":"$file_path",
-}
-
